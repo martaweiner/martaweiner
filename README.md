@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😊, I'm Marta.</h1>
+<h1 align="center">Hi, I'm Marta.</h1>
 <h3 align="center">I'm learning Java and doing small programs in this language - for now 🤩</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
