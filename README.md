@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **SPRING and SQL**
 
-- 💻 I work with [ec0lint](https://github.com/ec0lint/ec0lint)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/marta-weiner-3b7721259/](https://www.linkedin.com/in/marta-weiner-3b7721259/)
 
 <h3 align="left">Connect with me:</h3>
